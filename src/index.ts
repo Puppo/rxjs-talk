@@ -1,8 +1,4 @@
-import { Observable } from 'rxjs';
-
-const observable = new Observable(observer => {
-    observer.next("Hello from RxJS Talk!");
-    observer.complete();
-})
-
-observable.subscribe(console.log);
+import "./01-subject";
+import "./02-behaviorSubject";
+import "./03-replaySubject";
+import "./04-asyncSubject";
