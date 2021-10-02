@@ -1,6 +1,6 @@
 # 🚀 Welcome to RxJS!
 
-You can now run
+## Run
 
 ```
 npm run serve
@@ -11,5 +11,3 @@ or
 ```
 yarn serve
 ```
-
-to bundle your application
