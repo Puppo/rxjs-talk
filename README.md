@@ -11,3 +11,15 @@ or
 ```
 yarn serve
 ```
+
+## Test
+
+```
+npm run test
+```
+
+or
+
+```
+yarn test
+```
